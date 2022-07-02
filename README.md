@@ -11,5 +11,5 @@ pair of concomitant variants.
 
 ## Citation
 
-- Zhang, F. and Flaherty, P. Variational inference for rare variant detection in deep, heterogeneous next-generation sequencing data. BMC bioinformatics, 18(1), 45, 2017
-- He, Y., Zhang, F., and Flaherty, P. RVD2: an ultra-sensitive variant detection model for low-depth heterogeneous next-generation sequencing data. Bioinformatics, 31(17), 2785-2793, 2015
+- Zhang, F. and Flaherty, P. Variational inference for rare variant detection in deep, heterogeneous next-generation sequencing data. *BMC Bioinformatics*, 18(1), 45, 2017
+- He, Y., Zhang, F., and Flaherty, P. RVD2: an ultra-sensitive variant detection model for low-depth heterogeneous next-generation sequencing data. *Bioinformatics*, 31(17), 2785-2793, 2015
